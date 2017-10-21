@@ -12,7 +12,7 @@ Just Download the Visual Studio Project and compile it with Visual Studio.
 ### Usage ###
 1. Start your Game. ("Docking Station" or "Creatures 3")
 2. Start the Caos Console
-3. If No Error occures, Enter some CAOS Commands to see if it works… (i.e. http://creatures.wikia.com/wiki/C3/DS_CAOS_Codes
+3. If No Error occures, Enter some CAOS Commands to see if it works… (i.e. https://creatures.wiki/C3/DS_CAOS_Codes
 
 ### Advanced Usage ###
 If you Plan to run "Creatures 3" and "Docking Station" at the same Time, the Console will atache to the "Docking Station" Game.
